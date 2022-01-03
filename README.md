@@ -9,5 +9,9 @@ Skills I will have demonstrated upon completion.
  - Creating OL and UL 
  - Inserting links and images
 
-To be completed at the end of the project, concepts that I have a better understanding of, list form. 
- - 
+After finishing the project, here are the concepts that I feel I have a better handle of.  
+ - Creating the boilerplate - memorized
+ - Better understanding of how to do some of the formatting basics
+ - Inserting links and images
+ - The need for building the "house" of the website - why organization is crucial
+ - How helpful Ol and UL are
